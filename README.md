@@ -1,4 +1,4 @@
-# Hackathon Projects 2025
+# Hackathon Projects 
 
 This repository contains my submissions for various hackathons . Each project has its own folder with detailed information, source code, images etc
 
